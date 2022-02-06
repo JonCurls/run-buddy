@@ -79,6 +79,17 @@ section {
     position: relative;
 }
 
+.habits h2 {
+    font-size: 50px;
+    color: #fce138;
+    text-align: right;
+    position: fixed;
+}
+
+.habits p {
+    color: white;
+}
+
 .hero-form {
     background-color: #fce138;
     color: #024e76;
